@@ -3,11 +3,11 @@ import Layout from '../layouts/Layout.astro';
 import Showcase from '../components/Showcase.astro';
 import Card from '../components/Card.astro';
 
-const posts = await Astro.glob('../TheMellowWay/*.md');
+const posts = await Astro.glob('../Poems/*.md');
 ---
 
-<Layout title="The Mellow Way">
-  <Showcase heading="The Mellow Way" text="My interpretation of Dao De Jing (Tao Te Ching)" />
+<Layout title="Mellow Poems">
+  <Showcase heading="Mellow Poems" text="I write about the world in verses" />
   <section class="page-content">
     <div class="container">
       {posts.map(post => (
