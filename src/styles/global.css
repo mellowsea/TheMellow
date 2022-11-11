@@ -12,8 +12,8 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-family: 'Mukta', sans-serif;
+  font-size: 18px;
   line-height: 1.5;
   color: #f8fafc;
   background: #333;
@@ -45,7 +45,7 @@ h3 {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 30px;
+  padding: 0 0;
 }
 
 .btn {
@@ -67,6 +67,7 @@ h3 {
 /* Page Content */
 .page-content {
   margin: 20px 0;
+  text-align: center;
 }
 
 .page-content h2,
@@ -75,11 +76,11 @@ h3 {
 }
 
 .page-content h2 {
-  font-size: 40px;
+  font-size: 40px 0;
 }
 
 .page-content h3 {
-  font-size: 25px;
+  font-size: 25px 0;
 }
 
 @media (max-width: 960px) {

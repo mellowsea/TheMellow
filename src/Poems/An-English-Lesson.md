@@ -2,12 +2,12 @@
 title: An English Lesson
 slug: an-english-lesson
 excerpt: But in this holy moment of communion in your mind we are one. 
-date: 2022-11-10
-author: Dave Winnyk (Mellowsea)
+date: 2021-01-29T00:00:00
+author: Dave Winnyk 
 ---
 <br>
 
-# An English Lesson
+### An English Lesson
 
 Who taught you how to hear
 

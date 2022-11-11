@@ -2,19 +2,21 @@
 import Card from './Card.astro'
 
 const featuresData = [
-  {title: 'Poems about Life', body: 'Straight foward words about what it means to be alive'},
-  {title: 'The Mellow Way', body: 'An interpretation of the Dao De Jing by Lao Tzu'},
-  {title: 'Other Stuff', body: 'I\'m sure I\' have more stuff to say here'}
+  {title: 'Poems about Life', body: 'Straight foward words about what it means to be alive. The world in verses.', href: '/Poems'},
+  {title: 'The Mellow Way', body: 'My interpretation of the Dao De Jing by Lao Tzu. A description of the way life is.', href: '/TheMellowWay'},
+  {title: 'Mediations', body: 'Explore consciousness and relieve stress with The Peace Project Meditations', href: 'https://thepeaceprojectmeditations.com/listen'}
 ];
 ---
 
 <section class="features">
   <div class="container">
    {featuresData.map(feature => (
+    <a href={feature.href}>
       <Card>
         <h3>{feature.title}</h3>
         <p>{feature.body}</p>
       </Card>
+    </a>
     ))}
   </div>
 </section>

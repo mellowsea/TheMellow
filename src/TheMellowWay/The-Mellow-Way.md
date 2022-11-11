@@ -1,9 +1,9 @@
 ---
 title: The Mellow Way (Full Text)
 slug: the-mellow-way-full-text
-excerpt: Opening the unity between the named and the nameless is the door to all wonder, the awe of all awes, understanding of all understandings.
-date: 2022-11-10
-author: Dave Winnyk (Mellowsea)
+excerpt: Written and edited over the summer and fall of 2022, this is Dave Winnyk's interpretation of Dao De Jing. A description of the way life is. 
+date: 2022-06-18
+author: Dave Winnyk 
 ---
 <br>
 
