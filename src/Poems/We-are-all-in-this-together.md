@@ -16,6 +16,7 @@ Except when we are not.  
 Deluded by myths and their preachers,  
 
 We divide ourselves against us.  
+
 <br>
 
 We are all under the pressure of time:  
@@ -34,7 +35,8 @@ Only myself,  
 
 And everything and everyone  
 
-I carry with me.  
+I carry with me.
+  
 <br>
 
 We all ache for justice—-

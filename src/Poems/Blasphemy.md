@@ -14,6 +14,7 @@ I never thought myself as scared,
 Maybe as a fish never thinks itself under water, 
 
 But here I am breathing bubbles towards the surface.
+
 <br>
 
 I feared hell: 
@@ -63,6 +64,7 @@ A noble warrior for god
 Granting eternities of peace 
 
 Thus insuring my own. 
+
 <br>
 
 I am still learning what it means to be brave, 

@@ -16,6 +16,7 @@ Submerged in the rapids of life
 My arms grasp for dryness 
 
 Whatever works to get me breath
+
 <br>
 
 If I can be comfortable 
@@ -23,6 +24,7 @@ If I can be comfortable
 Holding my breath 
 
 I can find the shore. 
+
 <br>
 
 But my mind is hot 
@@ -34,6 +36,7 @@ Boiling all the water around me
 I must get out 
 
 I must get out 
+
 <br>
 
 If I can be comfortable 
@@ -41,6 +44,7 @@ If I can be comfortable
 Feeling on fire 
 
 I can find the shore 
+
 <br>
 
 But it all must be done
@@ -51,7 +55,8 @@ A convulsion away
 
 From sucking in my surroundings 
 
-And floating with the currents 
+And floating with the currents
+ 
 <br>
 
 If I can be comfortable 

@@ -20,6 +20,7 @@ Was I'm tired of being tired
 Was tired of feeling my feelings  
 
 Was tired of being alone 
+
 <br>
 
 I got tired of saying I was tired  
@@ -43,6 +44,7 @@ And empty classrooms
 And bar stools  
 
 For someone who I could be tired with. 
+
 <br> 
   
 I am good now.  

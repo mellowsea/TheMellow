@@ -38,6 +38,7 @@ But because I recognize myself being myself.
 I can be happy here. 
 
 And I am happy here. 
+
 <br>
 
 The lie is regret and self-pity. 
@@ -61,6 +62,7 @@ But because I recognize myself being myself.
 I can be happy here. 
 
 And I am happy here. 
+
 <br>
 
 The lie is assumption and obsession. 

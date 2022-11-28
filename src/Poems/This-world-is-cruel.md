@@ -30,6 +30,7 @@ It chased me -- more hungry than before.
 And when I begged it to cease, 
 
 It trampled over me. 
+
 <br>
 
 And when my head laid between the world's monstorous feet 
@@ -37,6 +38,7 @@ And when my head laid between the world's monstorous feet
 staring up through an endless storm
 
 I asked, "Why do I love you?" 
+
 <br>
 
 "Well, what else could you do?" 

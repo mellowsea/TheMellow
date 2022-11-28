@@ -1,7 +1,7 @@
 ---
 title: The Beauty of Sleep
 slug: The-Beauty-of-Sleep
-excerpt: I love the sweet seduction of warm dripping pool. I swim and luxerate in its bath knowing I'll return to the shore. Will I one day dip my head and find it deeper than I could ever know? 
+excerpt: I love the sweet seduction of its warm dripping pool. I swim and luxerate in its bath knowing I'll return to the shore. Will I one day dip my head and find it deeper than I could ever know? 
 date: 2022-05-01T00:00:00
 author: Dave Winnyk 
 ---
@@ -27,7 +27,8 @@ I feel my sleep
 
 I dream my dreams 
 
-But in death there are no feelings or dreams 
+But in death there are no feelings or dreams
+
 <br>
 
 There is nothing much better to me
@@ -49,6 +50,7 @@ No goals
 No desires 
 
 Only present sensations welcome. 
+
 <br>
 
 There is nothing much more relaxing to me
@@ -101,7 +103,7 @@ But I am trapped in the grips of comfort
 
 To close my eyes and succomb to it is inevitable for me. 
 
-I love the sweet seduction of warm dripping pool 
+I love the sweet seduction of its warm dripping pool 
 
 I swim and luxerate in its bath knowing I'll return to the shore.
 
@@ -112,6 +114,7 @@ Diving down and down
 Sinking beneath sleep into a creeping decay?
 
 Maybe. 
+
 <br>
 
 But I imagine it will be much dryer in death. 

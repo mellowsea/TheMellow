@@ -30,6 +30,7 @@ Past moments pressed into shoes
 Squeezed with the snow
 
 Between the earth and toes.
+
 <br>
 
 In my eyes  
@@ -39,9 +40,11 @@ Streak the pathways
 Sharpening up the whole maze 
 
 Step by step.
+
 <br>
 
 (An equilibrium of conscious reality)
+
 <br>
 
 There is no snow in my head-- 

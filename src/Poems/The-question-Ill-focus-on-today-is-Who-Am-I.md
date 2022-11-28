@@ -64,6 +64,7 @@ A sea of ether
 As countable as sand 
 
 As obtainable as time.
+
 <br>
 
 In my anxiety, I contemplate freezing my cyphaloid-- 
@@ -138,7 +139,8 @@ I'd find it hard to explain
 
 How futuristic it all felt 
 
-Existing in such a primative time.  
+Existing in such a primative time.
+
 <br>
 
 But what if,
@@ -162,6 +164,7 @@ Of research,
 Of drive, 
 
 Wasted on death. 
+
 <br>
 
 In my peace, I know I will end. 
@@ -173,6 +176,7 @@ An ending so ended
 Nothing will be there 
 
 To show there ever was anything to begin; 
+
 <br>
 
 And still, I ask, who am I, 
