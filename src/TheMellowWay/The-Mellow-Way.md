@@ -1418,7 +1418,7 @@ The tallest redwood grew from a sapling– like all trees.
 
 The biggest stadium started as blueprints and raw materials– like all construction. 
 
-The journey of a thousand miles starts by taking one step like– all movement. 
+The journey of a thousand miles starts by taking one step- like all movement. 
 
 If you meddle, you will fail. 
 
